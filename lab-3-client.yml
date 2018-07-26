@@ -1,4 +1,5 @@
 lucky-word: Irish
+words: fallback
 # Items that apply to ALL profiles:
 eureka:
   client:
