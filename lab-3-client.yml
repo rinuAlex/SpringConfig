@@ -4,6 +4,7 @@ lucky-word: Irish
 spring:
   profiles: subject
 words: I,You,He,She,It
+lucky-word: Irish13
   
 ---
 spring:
