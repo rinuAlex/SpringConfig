@@ -3,17 +3,19 @@ lucky-word: Irish
 ---
 spring:
   profiles: subject
+  application:
+    name: subject 
 words: I,You,He,She,It
 lucky-word: Irish13
-application
-  name: subject 
+
   
 ---
 spring:
   profiles: verb
+  application:
+    name: verb
 words: ran,knew,had,saw,bought
-application
-  name: verb
+
 
 ---
 spring:
