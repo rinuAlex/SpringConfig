@@ -4,7 +4,7 @@ lucky-word: Irish
 spring:
   profiles: subject
   application:
-    name: lab-4-subject 
+    name: subject 
 words: I,You,He,She,It
 lucky-word: Irish13
 
