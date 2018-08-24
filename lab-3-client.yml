@@ -24,15 +24,12 @@ words: a,the
 
 ---
 spring:
-  profiles: coldnoun
-    application:
-    name: noun
+  profiles: adjective
 lucky-word: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: noun
-    application:
-    name: noun
 lucky-word: boat,book,vote,seat,backpack,partition,groundhog
+
 
