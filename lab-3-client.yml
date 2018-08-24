@@ -5,8 +5,8 @@ spring:
   profiles: subject
   application:
     name: subject 
-words: I,You,He,She,It
-lucky-word: Irish13
+lucky-word: I,You,He,She,It
+
 
   
 ---
@@ -14,7 +14,7 @@ spring:
   profiles: verb
   application:
     name: verb
-words: ran,knew,had,saw,bought
+lucky-word: ran,knew,had,saw,bought
 
 
 ---
@@ -25,10 +25,10 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+lucky-word: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+lucky-word: boat,book,vote,seat,backpack,partition,groundhog
 
