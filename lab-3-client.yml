@@ -1,6 +1,6 @@
 ---
 wordConfig:
-  lucky-word: Irish1
+  luckyWord: Irish1
 ---
 spring:
   profiles: subject
