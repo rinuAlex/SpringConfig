@@ -6,7 +6,7 @@ spring:
   profiles: subject
   application:
     name: subject 
-lucky-word: I1,You,He,She,It
+lucky-word: I2,You,He,She,It
 
 
   
